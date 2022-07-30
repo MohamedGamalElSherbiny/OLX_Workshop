@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+ads_dataset_vehicles_2022-03-22 17 02 03.csv
+
+# Apple
+.DS_Store
